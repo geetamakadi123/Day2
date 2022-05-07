@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+form{
+    width:50%;
+    margin: auto;
+    background-color: antiquewhite;
+    box-shadow:  rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height:500px;
+    width: 500px;
+    margin-top: 20px;
+}
+
+input{
+    display: block;
+    margin: auto;
+    font-size: 20px;
+    padding: 20px;
+   margin-top: 15px;
+   margin-bottom: 20px;
+   width:400px;
+   border-radius: 10px;
+}
+img{
+    margin-left: 610px;
+   
+}
+h6{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+}
+p{
+    font-size: 19px;
+    color: rgb(18, 17, 17);
+    margin-left: 10px;
+
+}
+
+/* .user{
+    height: 400px;
+    width: 300px;
+} */
